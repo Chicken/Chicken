@@ -32,7 +32,7 @@ ___
 
 ### Images
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Chicken-E&&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken-E&&show_icons=true&theme=tokyonight&count_private=true&layout=compact"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Chicken&&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken&&show_icons=true&theme=tokyonight&count_private=true&layout=compact"/>
 
 ![Selfie](https://antti.codes/media/wide_chicken.png "selfie")
