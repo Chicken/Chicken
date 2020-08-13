@@ -18,7 +18,7 @@ ___
 
 [Antti.Codes](https://antti.codes)
 
-[Sourcerer](https://sourcerer.io/chicken-e)
+[Sourcerer](https://sourcerer.io/chicken)
 
 ___
 
