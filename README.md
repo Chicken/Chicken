@@ -18,7 +18,7 @@ ___
 
 [Antti.Codes](https://antti.codes)
 
-[Sourcerer](https://sourcerer.io/chicken)
+[GPG Public key](https://antti.codes/media/antti.asc)
 
 ___
 
@@ -34,5 +34,3 @@ ___
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Chicken&&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken&&show_icons=true&theme=tokyonight&count_private=true&layout=compact"/>
-
-![Selfie](https://antti.codes/media/wide_chicken.png "selfie")
