@@ -1,6 +1,8 @@
 # Antti
 ___
 
+<img src="https://komarev.com/ghpvc/?username=chicken&color=ff69b4"/>
+
 Hi!
 
 So you have found my github profile. So let me tell you about myself.
