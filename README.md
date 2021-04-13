@@ -18,21 +18,37 @@ ___
 
 ### Links
 
-[Antti.Codes](https://antti.codes)
+[Antti.Codes]
 
-[GPG Public key](https://antti.codes/media/antti.asc)
+[PGP Public key]
 
 ___
 
 ### Contact
 
-Email: [antti@antti.codes](mailto:antti@antti.codes)
+Email: [antti@antti.codes]
+
+Matrix: [@antti:antti.codes]
 
 Discord: Chicken#4127
-
 ___
-
+ 
 ### Images
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Chicken&&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken&&show_icons=true&theme=tokyonight&count_private=true&layout=compact"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Chicken&show_icons=true&custom_title=Github%20Stats&theme=synthwave&count_private=true&hide=issues,contributed" />  
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken&layout=compact&show_icons=true&custom_title=Top%20Languages&theme=synthwave&count_private=true&langs_count=4" />  
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chicken&theme=synthwave&layout=compact" />  
+</a>
+
+> Statistics provided by [`GitHub Readme Stats`]
+
+[Antti.Codes]:           https://antti.codes
+[PGP Public key]:        https://antti.codes/media/antti.asc
+[antti@antti.codes]:     mailto:antti@antti.codes
+[@antti:antti.codes]:    https://matrix.to/#/@antti:antti.codes
+[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
