@@ -22,6 +22,8 @@ ___
 
 [PGP Public key]
 
+[SSH Keys]
+
 ___
 
 ### Contact
@@ -47,6 +49,7 @@ ___
 
 > Statistics provided by [`GitHub Readme Stats`]
 
+[SSH Keys]               https://antti.codes/media/ids.pub
 [Antti.Codes]:           https://antti.codes
 [PGP Public key]:        https://antti.codes/media/antti.asc
 [antti@antti.codes]:     mailto:antti@antti.codes
