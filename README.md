@@ -49,9 +49,9 @@ ___
 
 > Statistics provided by [`GitHub Readme Stats`]
 
-[SSH Keys]:              https://antti.codes/media/ids.pub
+[SSH Keys]:              https://antti.codes/sshkey
 [Antti.Codes]:           https://antti.codes
-[PGP Public key]:        https://antti.codes/media/antti.asc
+[PGP Public key]:        https://antti.codes/pgpkey
 [antti@antti.codes]:     mailto:antti@antti.codes
 [@antti:antti.codes]:    https://matrix.to/#/@antti:antti.codes
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
