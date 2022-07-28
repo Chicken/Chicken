@@ -44,10 +44,10 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken&layout=compact&show_icons=true&custom_title=Top%20Languages&theme=synthwave&count_private=true&langs_count=4" />  
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chicken&theme=synthwave&layout=compact&range=last_7_days" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chicken&theme=synthwave&layout=compact&range=last_7_days&langs_count=10" />
 </a>
 <a href="https://github.com/Testaustime/github-readme-testaustime">
-  <img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=Antti&theme=synthwave&layout=compact&range=7" />
+  <img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=Antti&theme=synthwave&layout=compact&range=7&langs_count=10" />
 </a>
 
 > Statistics provided by [`GitHub Readme Stats`] and [`Github Readme Testaustime`]
