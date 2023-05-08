@@ -32,7 +32,7 @@ Email: [antti@antti.codes]
 
 Matrix: [@antti:antti.codes]
 
-Discord: Chicken#4127
+Discord: Antti#0001 (id: `312974985876471810`) (who knows what will happen when the new usernames roll out)
 ___
  
 ### Images
